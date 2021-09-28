@@ -1,0 +1,21 @@
+#headTitle{
+    font-family: monospace;
+    font-size: 3em;
+}
+#selfiePic {
+    float: right;
+    padding: 20px 0px;
+    width: 100%;
+    max-width: 100px;
+    height: auto;
+    border-radius: 50%;
+    /* ask why the border-radius property wont make full circle 
+    with max-width property set on. I'm trying to make the image responsive. */
+}
+p {
+    font-family: sans-serif;
+    font-size: 1.5em;
+}
+div { 
+    text-align: center;
+}

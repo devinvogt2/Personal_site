@@ -1,0 +1,42 @@
+#topMainDiv {
+    border-bottom: 0.1em solid black;
+    padding: .1em;
+}
+.lowerMainDivs{
+    border-bottom: 0.1em solid black;
+    padding: 2em;
+}
+#bakerPhoto {
+    float: left;
+    border-radius: 50%;
+    max-width: 100%;
+    width: 160px;
+    padding-right: 11px;
+}
+#starWarsPhoto {
+    float: right;
+    border-radius: 50%;
+    max-width: 100%;
+    width: 160px;
+    padding-left: 10px;
+}
+#cookingPhoto {
+    float: left;
+    border-radius: 50%;
+    max-width: 100%;
+    width: 160px;
+    padding-right: 10px;
+}
+main h1{
+    font-family: cursive;
+}
+main h2 {
+    font-family: cursive;
+    line-height: 2em;
+}
+p {
+    font-size: 1.6em;
+    font-family: sans-serif;
+    line-height: 1.3em;
+    text-indent: 1em;
+}
