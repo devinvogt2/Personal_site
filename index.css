@@ -3,7 +3,7 @@
     font-size: 3em;
 }
 #selfiePic {
-    float: right;
+    float: left;
     padding: 20px 0px;
     width: 100%;
     max-width: 100px;
